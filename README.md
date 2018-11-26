@@ -29,7 +29,7 @@ sudo dnf groupinstall "C Development Tools and Libraries"
 ```
 ### 2) Download the source
 ```
-git clone git@github.com:openbmc/openbmc.git
+git clone git@github.com:Sugon-Beijing/OpenBMC.git
 cd openbmc
 ```
 
